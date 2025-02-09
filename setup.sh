@@ -36,4 +36,5 @@ apt install nodejs
 cd
 cd
 cd Termux-Setup
+bash completed.sh
 python completed.py

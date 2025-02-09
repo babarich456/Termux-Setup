@@ -1,6 +1,3 @@
-import pyfiglet 
-a= pyfiglet.figlet_format("Termux-Setup") 
-print(a)
 print("=====================================================================")
 print("apt update")
 print("apt upgrade")

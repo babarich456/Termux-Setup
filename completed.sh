@@ -1,3 +1,3 @@
 figlet " Termux-Setup "
-echo "Finally Finished!"
+echo "Started!"
 echo "Github: https://github.com/babarich456/Termux-Setup.git"

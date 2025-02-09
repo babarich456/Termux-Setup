@@ -1,3 +1,4 @@
+print("The following were established: ")
 print("apt update")
 print("apt upgrade")
 print("termux-setup-storage")

@@ -1,5 +1,3 @@
-figlet " Termux-Setup "
-Github: https://github.com/babarich456/Termux-Setup.git
 g="\033[1;32m"
 r="\033[1;31m"
 b="\033[1;34m"

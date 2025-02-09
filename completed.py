@@ -1,4 +1,5 @@
 print("=====================================================================")
+print("These are Completed: ")
 print("apt update")
 print("apt upgrade")
 print("termux-setup-storage")

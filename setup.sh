@@ -11,7 +11,7 @@ green='\033[92m'
 clear
 sleep 1.5
 echo -e "$default"
-bash completed.sh
+bash started.sh
 apt update
 apt upgrade
 termux-setup-storage
@@ -37,4 +37,5 @@ apt install nodejs
 cd
 cd
 cd Termux-Setup
+bash finished.sh
 python completed.py

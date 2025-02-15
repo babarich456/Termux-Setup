@@ -5,9 +5,9 @@ Just Termux!
 
 İnstalling: 
 
-apt update
+pkg update
 
-apt upgrade
+pkg upgrade
 
 pkg install git
 
